@@ -1,6 +1,6 @@
 use bevy::prelude::*;
 
-// main func
+// main c
 fn main() {
     App::new()
         .add_plugins(
